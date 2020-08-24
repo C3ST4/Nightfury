@@ -32,3 +32,5 @@ X-Plane 11
 ## Aircraft included
 
 ### B738 Nightfury livery
+
+### A319 Nightfury livery
